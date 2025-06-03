@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Python ML Model, MLOps Platform on Kubernetes, Automated CI/CD Pipeline
 - 📫 How to reach me: aleksander.sobik@icloud.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play volleyball 
+- ⚡ Fun fact: I play volleyball :volleyball:
