@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sander-gitt
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Programming, Pipeline Automation, DevSecOps, Cloud Native, ML Frameworks, Containers, Collaboration, Kubernetes Package Management, ML Architectures, ML Orchestration, Monitoring, Public Clouds
+- 💞️ I’m looking to collaborate on Python ML Model, MLOps Platform on Kubernetes, Automated CI/CD Pipeline
+- 📫 How to reach me: aleksander.sobik@icloud.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play volleyball 
